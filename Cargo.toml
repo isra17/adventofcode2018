@@ -6,3 +6,6 @@ authors = ["isra17 <isra017@gmail.com>"]
 [dependencies]
 aoc-runner = "0.1.0"
 aoc-runner-derive = "0.1.0"
+scan_fmt = "0.1.3"
+itertools = "0.7"
+
